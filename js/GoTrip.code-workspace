@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../front/меню ресторана"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "GoTrip"
+	}
+}
